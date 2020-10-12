@@ -5,7 +5,7 @@
 ## Installation
 
 1. Run this command in your Laravel project root to install using Composer
-`composer require netshell/paypal dev-master`
+`composer require it369/paypal dev-master`
 
 2. Next, add the service provider to `app/config/app.php` in the `providers` array.
 
